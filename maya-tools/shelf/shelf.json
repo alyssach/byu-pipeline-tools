@@ -1,0 +1,9 @@
+{
+	"buttons":[
+		{
+			"icon":"alembic_exporter.xpm",
+			"annotation":"Export as Alembic.",
+			"python_file":"alembic_exporter.py"
+		}
+	]
+}
